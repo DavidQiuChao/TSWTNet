@@ -1,5 +1,5 @@
 '''
- An unofficial implement the network of
+ An unofficial implement of
  "Burst Denoising via Temporally Shifted
  Wavelet Transform",ECCV2020 by Tensorflow.
 '''
